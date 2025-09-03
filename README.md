@@ -25,8 +25,8 @@ Frontend Mentor - [Social links profile](https://www.frontendmentor.io/challenge
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-9YF16ZkIz1)
+- Live Site URL: [Github Pages](https://rahulpaul127.github.io/fm-social-links-profile-main/)
 
 ## My Process
 
